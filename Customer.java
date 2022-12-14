@@ -19,3 +19,4 @@ public class Customer {
         return possessionPoint.amount < comic.currentPurchasePoint.amount;
     }
 }
+
