@@ -21,3 +21,4 @@ class PurchasePointPayment {
         paymentDateTime = LocalDateTime.now();
     }
 }
+
